@@ -1,5 +1,5 @@
 require_relative './spec_helper.rb'
-require_relative '../summer_olympics_hash.rb'
+require_relative "../summer_olympics_hash.rb"
 require 'pry'
 
 describe "create_olympics_hash" do
